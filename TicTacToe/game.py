@@ -1,3 +1,6 @@
+#tutorial: 12 Beginner Python Projects - Coding Course : freeCodeCamp.org
+#https://youtu.be/8ext9G7xspg
+
 import math
 import time
 from player import HumanPlayer, RandomComputerPlayer, SmartComputerPlayer
